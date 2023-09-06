@@ -1,0 +1,21 @@
+/* Add custom styles for the Text Generator Block */
+.text-generator-block {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Define styles for the block's title */
+.text-generator-block h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.wp-block-text-generator button{
+    background-color: navy;
+    padding: 40px;
+}
+/* Add more custom styles as needed */
